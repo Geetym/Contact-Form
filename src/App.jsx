@@ -79,7 +79,7 @@ const App = () => {
                 <span className='ml-2 text-gray-700'>I consent to being contacted by the team *</span>
               </label>
 
-              <button  className='border border-b-gray-600 ml-5 md:ml-5 px-40 py-3 bg-[rgb(12,125,105)]'>
+              <button  className='border items-center border-b-gray-600 ml-5 md:ml-5 px-40 py-3 bg-[rgb(12,125,105)]'>
                 <h1>Submit</h1>
               </button>
           {/* Add other form fields as necessary */}
