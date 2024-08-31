@@ -79,7 +79,7 @@ const App = () => {
                 <span className='ml-2 text-gray-700'>I consent to being contacted by the team *</span>
               </label>
 
-   <button className="bg-[#0e7b69] text-white font-medium w-full py-2 px-40 rounded-lg hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-opacity-50 sm:w-auto">
+   <button className="bg-[#0e7b69] text-center text-white font-medium w-full py-2 px-40 rounded-lg hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-opacity-50 sm:w-auto">
   Submit
 </button>
 
